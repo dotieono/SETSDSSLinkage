@@ -1,0 +1,198 @@
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem - Copy (2)\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem - Copy (2)\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\FOPiyo\Documents\Visual Studio 2010\Projects\ClinicSystem - Copy (2)\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\ClinicSystem\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.pdb
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.pdb
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+F:\projects\job .NET\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+C:\Users\FOpiyo\Desktop\Source Code\ClinicSystem - Copy\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+G:\November 13\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+G:\November 13\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+G:\November 13\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+G:\November 13\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+G:\November 13\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+G:\November 13\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Rmo.dll
+I:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+I:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+I:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+I:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+I:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Rmo.dll
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+I:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+D:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+D:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+D:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+D:\November 17\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+D:\November 17\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Rmo.dll
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+G:\Alpha Study\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\FOpiyo\Desktop\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.exe
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.pdb
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+G:\December 13\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final version 1.2\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache

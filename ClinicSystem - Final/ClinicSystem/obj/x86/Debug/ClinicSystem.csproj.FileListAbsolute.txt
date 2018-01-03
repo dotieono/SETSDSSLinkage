@@ -1,0 +1,17 @@
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.exe
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.pdb
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.pdb
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csprojResolveAssemblyReference.cache
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndCheckin.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndLinkage.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.EndTestEntry.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.MainForm.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.AdditionalReferences.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Properties.Resources.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.SyncData.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.Synchronize.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.UserLogin.resources
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\x86\Debug\ClinicSystem.csproj.GenerateResource.Cache

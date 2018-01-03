@@ -1,0 +1,17 @@
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem\ClinicSystem\bin\Debug\ClinicSystem.pdb
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.EndCheckin.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.EndLinkage.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.EndTestEntry.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.MainForm.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.AdditionalReferences.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.Properties.Resources.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.Synchronize.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.UserLogin.resources
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.csproj.GenerateResource.Cache
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.exe
+F:\projects\job .NET\ClinicSystem\ClinicSystem\obj\Debug\ClinicSystem.pdb
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\bin\Debug\ClinicSystem.exe.config
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\Debug\ClinicSystem.exe
+C:\Users\doonyango\Desktop\Sets\ClinicSystem - Final\ClinicSystem\obj\Debug\ClinicSystem.pdb
